@@ -4,5 +4,6 @@ void main()
 int a=10,b=20;
 printf("Division=%d",(b/a));
 printf("Multiplication=%d",(a*b));
+printf("%d",b%a);
 }
 
