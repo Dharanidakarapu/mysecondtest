@@ -2,5 +2,7 @@
 void main()
 {
 int a=10,b=20;
-printf("multiplication=%d",(a*b));
+printf("Division=%d",(b/a));
+printf("Multiplication=%d",(a*b));
 }
+
